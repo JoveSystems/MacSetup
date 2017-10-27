@@ -4,6 +4,7 @@
     - [Sublime Text](#sublime-text)
     - [Scrivener](#scrivener)
     - [Homebrew](#homebrew)
+    - [Fonts](#fonts)
 
 - Sublime Text
     - [Website](https://www.sublimetext.com)
@@ -15,3 +16,7 @@
  - Homebrew
      - [Website](https://brew.sh)
      - [Hugo](https://gohugo.io) [brew install hugo]
+     - [Ffmpeg](https://https://www.ffmpeg.org) [brew install ffmpeg]
+
+- Fonts
+     - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) [OTF version]

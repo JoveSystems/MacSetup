@@ -3,11 +3,15 @@
 - Installed Apps / Tools
     - [Sublime Text](#sublime-text)
     - [Scrivener](#scrivener)
+    - [Reeder](#reeder)
     - [Homebrew](#homebrew)
     - [Fonts](#fonts)
 
+
 - Sublime Text
     - [Website](https://www.sublimetext.com)
+    - Set default font to 'Source Code Pro Medium', font size 14 as per [these instructions](https://www.sublimetext.com/docs/3/font.html)
+    - Preferences : Settings : "tab_size 2, translate_tabs_to_spaces, true"
 
 - Scrivener
     - [Website](https://www.literatureandlatte.com/scrivener.php)

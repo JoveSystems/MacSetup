@@ -6,6 +6,7 @@
     - [Reeder](#reeder)
     - [Homebrew](#homebrew)
     - [Fonts](#fonts)
+    - [Pocket](#pocket)
 
 
 - Sublime Text
@@ -17,6 +18,9 @@
     - [Website](https://www.literatureandlatte.com/scrivener.php)
     - [Revised Icons](https://dribbble.com/shots/978125-Scrivener-Icon-Replacement)
 
+- Pocket
+    - [Pocket Safari Extension](https://safari-extensions.apple.com/details/?id=com.ideashower.pocket.safari-ET279A6R5N)
+
  - Homebrew
      - [Website](https://brew.sh)
      - [Hugo](https://gohugo.io) [brew install hugo]
@@ -24,3 +28,4 @@
 
 - Fonts
      - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) [OTF version]
+

@@ -8,8 +8,9 @@
     - [Fonts](#fonts)
     - [Pocket](#pocket)
     - [Keynote](#keynote)
-    - [iMovie](#iMovie)
-    - [VirtualBox](VirtualBox)
+    - [iMovie](#imovie)
+    - [VirtualBox](#virtualBox)
+    - [Soundflower](#soundflower)
 
 
 - Sublime Text
@@ -37,4 +38,7 @@
 - iMovie
 
 - VirtualBox
+
+- Soundflower
+    - [Website](https://github.com/mattingalls/Soundflower/releases/tag/2.0b2)
 

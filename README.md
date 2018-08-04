@@ -6,7 +6,8 @@
     - [Homebrew](#homebrew)
     - [Fonts](#fonts)
     - [Pocket](#pocket)
-    - [Docker for Mac]{#docker-for-mac}
+    - [Docker for Mac](#docker-for-mac)
+    - [VSCode](#vscode)
 
 - Sublime Text
     - [Website](https://www.sublimetext.com)
@@ -31,3 +32,10 @@
 
 - Docker for Mac
     - [Website](https://www.docker.com/docker-mac)
+
+- Visual Studio Code
+    - [Website](https://code.visualstudio.com)
+    - [MS Python Extension](https://github.com/Microsoft/vscode-python)
+    - [Base 16 Themes](https://marketplace.visualstudio.com/items?itemName=AndrsDC.base16-themes)
+    - Use settings in vscode/settings file
+

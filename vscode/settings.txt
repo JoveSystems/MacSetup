@@ -1,0 +1,9 @@
+VSCode Settings
+
+{
+    "editor.fontFamily": "Source Code Variable",
+
+    "editor.fontSize": 14,
+    "extensions.ignoreRecommendations": true,
+    "workbench.colorTheme": "Base16 Dark Oceanic Next"
+}

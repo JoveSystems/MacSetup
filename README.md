@@ -5,10 +5,11 @@
 - [Safari](#safari)
 - [Chrome](#chrome)
 - [VSCode](#vscode)
-- [Scrivener](#scrivener)
+- [ITerm2](#iterm2)
 - [KeyBoard Maestro](#keyboard-maestro)
-- [Homebrew](#homebrew)
 - [Docker for Mac](#docker-for-mac)
+- [Scrivener](#scrivener)
+- [Homebrew](#homebrew)
 - [Fonts](#fonts)
 
 #### Safari
@@ -16,24 +17,28 @@
 - [Pocket Extension](https://safari-extensions.apple.com/details/?id=com.ideashower.pocket.safari-ET279A6R5N)
 
 #### [Chrome](https://www.google.com/chrome/)
+- Pocket Extension
 
-#### [Visual Studio Code](https://code.visualstudio.com)
+#### [VSCode](https://code.visualstudio.com)
 
 - [MS Python Extension](https://github.com/Microsoft/vscode-python)
 - [Base 16 Themes](https://marketplace.visualstudio.com/items?itemName=AndrsDC.base16-themes)
 - Use settings in vscode/settings file
 
-#### [Scrivener](https://www.literatureandlatte.com/scrivener.php)
-
-- [Revised Icons](https://dribbble.com/shots/978125-Scrivener-Icon-Replacement)
+#### [iTerm2](https://www.iterm2.com)
+- Revised Icon
 
 #### [KeyBoard Maestro](https://www.keyboardmaestro.com/main/)
 
 - Install macros etc in keyboard-maestro subdirectory
 
-#### [Homebrew](https://brew.sh)
+#### [Scrivener](https://www.literatureandlatte.com/scrivener.php)
+
+- [Revised Icon](https://dribbble.com/shots/978125-Scrivener-Icon-Replacement)
 
 #### [Docker for Mac](https://www.docker.com/docker-mac)
+
+#### [Homebrew](https://brew.sh)
 
 #### Fonts
 

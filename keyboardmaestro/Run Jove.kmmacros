@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>554909708.40948403</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>IncludeStdErr</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>PlugIn</string>
+						<key>PlugInFolderName</key>
+						<string>Execute a Script in Terminal</string>
+						<key>PlugInParameters</key>
+						<dict>
+							<key>Bring Terminal to foreground</key>
+							<string>1</string>
+							<key>New Terminal window</key>
+							<string>1</string>
+							<key>Script</key>
+							<string>cd ~/Code/Jove/projextia</string>
+						</dict>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>IncludeStdErr</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>PlugIn</string>
+						<key>PlugInFolderName</key>
+						<string>Execute a Script in Terminal</string>
+						<key>PlugInParameters</key>
+						<dict>
+							<key>Bring Terminal to foreground</key>
+							<string>1</string>
+							<key>New Terminal window</key>
+							<string>0</string>
+							<key>Script</key>
+							<string>rm file.txt</string>
+						</dict>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>IncludeStdErr</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>PlugIn</string>
+						<key>PlugInFolderName</key>
+						<string>Execute a Script in Terminal</string>
+						<key>PlugInParameters</key>
+						<dict>
+							<key>Bring Terminal to foreground</key>
+							<string>1</string>
+							<key>New Terminal window</key>
+							<string>0</string>
+							<key>Script</key>
+							<string>docker run -it --rm --privileged=true -p 8888:8888 -v ~/Code/Jove/projextia/kore:/home/jovyan/.kore -v ~/Code/Jove/projextia/projextia:/home/jovyan/.projextia a1d start.sh jupyter lab | tee file.txt</string>
+						</dict>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>MacroActionType</key>
+						<string>Pause</string>
+						<key>Time</key>
+						<string>10</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>IncludeStdErr</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>PlugIn</string>
+						<key>PlugInFolderName</key>
+						<string>Execute a Script in Terminal</string>
+						<key>PlugInParameters</key>
+						<dict>
+							<key>Bring Terminal to foreground</key>
+							<string>1</string>
+							<key>New Terminal window</key>
+							<string>0</string>
+							<key>Script</key>
+							<string>cat file.txt | pbcopy</string>
+						</dict>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>MacroActionType</key>
+						<string>Pause</string>
+						<key>Time</key>
+						<string>2</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>CloseWindow</string>
+						<key>HeightExpression</key>
+						<string>300</string>
+						<key>HorizontalExpression</key>
+						<string>125</string>
+						<key>MacroActionType</key>
+						<string>ManipulateWindow</string>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>Targeting</key>
+						<string>FrontWindow</string>
+						<key>TargetingType</key>
+						<string>Front</string>
+						<key>VerticalExpression</key>
+						<string>125</string>
+						<key>WidthExpression</key>
+						<string>300</string>
+						<key>WindowIndexExpression</key>
+						<string>2</string>
+						<key>WindowName</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>IgnoreCaseRegEx</string>
+						<key>Captures</key>
+						<array>
+							<string>VarName</string>
+						</array>
+						<key>MacroActionType</key>
+						<string>SearchRegEx</string>
+						<key>Search</key>
+						<string>:8888/\?token=[a-z0-9]{48}</string>
+						<key>Source</key>
+						<string>Clipboard</string>
+					</dict>
+					<dict>
+						<key>AllWindows</key>
+						<true/>
+						<key>AlreadyActivatedActionType</key>
+						<string>Normal</string>
+						<key>Application</key>
+						<dict>
+							<key>BundleIdentifier</key>
+							<string>com.apple.Safari</string>
+							<key>Name</key>
+							<string>Safari</string>
+							<key>NewFile</key>
+							<string>/Applications/Safari.app</string>
+						</dict>
+						<key>MacroActionType</key>
+						<string>ActivateApplication</string>
+						<key>ReopenWindows</key>
+						<false/>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>BringWindowsForward</string>
+					</dict>
+					<dict>
+						<key>Argument</key>
+						<string>http://localhost%VarName%</string>
+						<key>Command</key>
+						<string>NewTab</string>
+						<key>MacroActionType</key>
+						<string>SafariControl</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>WebBrowser</key>
+						<string>Safari</string>
+					</dict>
+					<dict>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>//*[@id="launcher-0"]/div/div/div[2]/div[2]/div[1]/div[1]/img</string>
+						<key>Variable</key>
+						<string>xPath</string>
+					</dict>
+					<dict>
+						<key>Argument</key>
+						<string>3</string>
+						<key>Command</key>
+						<string>WaitForComplete</string>
+						<key>MacroActionType</key>
+						<string>SafariControl</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>WebBrowser</key>
+						<string>Safari</string>
+					</dict>
+					<dict>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteJavaScript</string>
+						<key>NotifyOnFailure</key>
+						<false/>
+						<key>Path</key>
+						<string></string>
+						<key>StopOnFailure</key>
+						<false/>
+						<key>Text</key>
+						<string>(function run (pXPathStr) {
+  'use strict';
+
+var ptyScriptName   = "Click on Link Identified by XPath"
+var ptyScriptVer     = "2.0"
+var ptyScriptDate   = "2016-10-12"
+var ptyScriptAuthor = "@JMichaelTX"
+/*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+PURPOSE:  Click on the Hyperlink Identified by the XPath provided by KM
+
+RETURNS:  One of these, as text:
+  • "OK" -- if successful, no errors
+    
+  • "[ERROR]" at start of results if a script error occurred.
+  
+KM VARIABALES REQUIRED:
+  • xPath    -- the full XPath to the Link
+  
+    EXAMPLE XPATH:
+    //*[@id="ctl00_MainContent_ucEStatements_dlStatements_ctl00_lbStatementDate"]
+
+KM VARIABLES SET:
+  • NONE
+  
+REF:
+  • [Introduction to using XPath in JavaScript](https://developer.mozilla.org/en-US/docs/Introduction_to_using_XPath_in_JavaScript)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*/
+  //--- GET THE XPATH FROM KM ---
+  var xPathStr = document.kmvar.xPath;
+  
+  var returnResults = "TBD";
+  
+  //--- GET THE HTML ELEMENT IDENTIFIED BY THE XPATH ---
+  var elemFound =  document.evaluate(
+      xPathStr, document, null, 0, null
+    ).iterateNext();
+    
+  if (elemFound) {
+    //--- CLICK ON THE LINK ---
+    elemFound.click();
+    returnResults = "OK";
+  }
+  else {
+    //--- ERROR:  ELEMENT WAS NOT FOUND ---
+    returnResults = '[ERROR] Element NOT FOUND for XPath:\n' + xPathStr;
+    alert(returnResults);
+  }
+  
+  return returnResults;
+
+})();
+
+/* 
+*/</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+						<key>WebBrowser</key>
+						<string>Safari</string>
+					</dict>
+					<dict>
+						<key>MacroActionType</key>
+						<string>Pause</string>
+						<key>Time</key>
+						<string>2</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>KeyCode</key>
+						<integer>48</integer>
+						<key>MacroActionType</key>
+						<string>SimulateKeystroke</string>
+						<key>Modifiers</key>
+						<integer>0</integer>
+						<key>ReleaseAll</key>
+						<false/>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>TargetingType</key>
+						<string>Front</string>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>x = RunGroup("runs")
+x.run()
+y = Debug(run_group = "runs", output = "output_name")
+y.run()</string>
+					</dict>
+					<dict>
+						<key>KeyCode</key>
+						<integer>36</integer>
+						<key>MacroActionType</key>
+						<string>SimulateKeystroke</string>
+						<key>Modifiers</key>
+						<integer>512</integer>
+						<key>ReleaseAll</key>
+						<false/>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>TargetingType</key>
+						<string>Front</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>554912690.37114799</real>
+				<key>ModificationDate</key>
+				<real>555103203.77764702</real>
+				<key>Name</key>
+				<string>Run Jove</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>MacroPalette</string>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>D628A46D-2C3C-4E56-9A50-4F33D0E3580E</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Global Macro Group</string>
+		<key>ToggleMacroUID</key>
+		<string>AA2E0772-DE85-41AE-82B9-0913BC3D2C9B</string>
+		<key>UID</key>
+		<string>6D0EA15B-31E6-4F85-8F8E-1C93500D1175</string>
+	</dict>
+</array>
+</plist>

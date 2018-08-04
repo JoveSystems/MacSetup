@@ -6,6 +6,7 @@
     - [Homebrew](#homebrew)
     - [Fonts](#fonts)
     - [Pocket](#pocket)
+    - [Docker for Mac]{#docker-for-mac}
 
 - Sublime Text
     - [Website](https://www.sublimetext.com)
@@ -23,7 +24,10 @@
     - [Pocket Safari Extension](https://safari-extensions.apple.com/details/?id=com.ideashower.pocket.safari-ET279A6R5N)
 
  - Homebrew
-     - [Website](https://brew.sh)
+    - [Website](https://brew.sh)
 
 - Fonts
-     - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) [OTF version]
+    - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) [OTF version]
+
+- Docker for Mac
+    - [Website](https://www.docker.com/docker-mac)

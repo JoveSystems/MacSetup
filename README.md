@@ -5,7 +5,7 @@
 - [Safari](#safari)
 - [Chrome](#chrome)
 - [VSCode](#vscode)
-- [ITerm2](#iterm2)
+- [iTerm2](#iterm2)
 - [KeyBoard Maestro](#keyboard-maestro)
 - [Docker for Mac](#docker-for-mac)
 - [Scrivener](#scrivener)
@@ -17,7 +17,7 @@
 - [Pocket Extension](https://safari-extensions.apple.com/details/?id=com.ideashower.pocket.safari-ET279A6R5N)
 
 #### [Chrome](https://www.google.com/chrome/)
-- Pocket Extension
+- [Pocket Extension](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en)
 
 #### [VSCode](https://code.visualstudio.com)
 

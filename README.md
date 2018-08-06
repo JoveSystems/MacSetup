@@ -26,7 +26,9 @@
 - Use settings in vscode/settings file
 
 #### [iTerm2](https://www.iterm2.com)
-- Revised Icon
+- [Revised Icon](https://dribbble.com/shots/1682322-iTerm-Redesign-Replacement-icns)
+- Theme: [Base 16 Oceanic Next]()
+- Font: Source Code Variable Medium 14pt
 
 #### [KeyBoard Maestro](https://www.keyboardmaestro.com/main/)
 

@@ -6,7 +6,7 @@
 		<key>Activate</key>
 		<string>Normal</string>
 		<key>CreationDate</key>
-		<real>554909708.40948403</real>
+		<real>555341452.17629099</real>
 		<key>Macros</key>
 		<array>
 			<dict>
@@ -28,7 +28,7 @@
 							<key>New Terminal window</key>
 							<string>1</string>
 							<key>Script</key>
-							<string>cd ~/Code/Jove/projextia</string>
+							<string>cd ~/Code/Jove</string>
 						</dict>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
@@ -74,7 +74,7 @@
 							<key>New Terminal window</key>
 							<string>0</string>
 							<key>Script</key>
-							<string>docker run -it --rm --privileged=true -p 8888:8888 -v ~/Code/Jove/projextia/kore:/home/jovyan/.kore -v ~/Code/Jove/projextia/projextia:/home/jovyan/.projextia a1d start.sh jupyter lab | tee file.txt</string>
+							<string>docker run -it --rm --privileged=true -p 8888:8888 -v ~/Code/Jove/kore:/home/jovyan/.kore -v ~/Code/Jove/projextia:/home/jovyan/.projextia 0bd start.sh jupyter lab | tee ~/Code/Jove/file.txt</string>
 						</dict>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
@@ -85,7 +85,7 @@
 						<key>MacroActionType</key>
 						<string>Pause</string>
 						<key>Time</key>
-						<string>10</string>
+						<string>5</string>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 					</dict>
@@ -105,7 +105,7 @@
 							<key>New Terminal window</key>
 							<string>0</string>
 							<key>Script</key>
-							<string>cat file.txt | pbcopy</string>
+							<string>cat ~/Code/Jove/file.txt | pbcopy</string>
 						</dict>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
@@ -351,7 +351,7 @@ y.run()</string>
 				<key>CreationDate</key>
 				<real>554912690.37114799</real>
 				<key>ModificationDate</key>
-				<real>555103203.77764702</real>
+				<real>555346459.86483896</real>
 				<key>Name</key>
 				<string>Run Jove</string>
 				<key>Triggers</key>
@@ -368,9 +368,9 @@ y.run()</string>
 		<key>Name</key>
 		<string>Global Macro Group</string>
 		<key>ToggleMacroUID</key>
-		<string>AA2E0772-DE85-41AE-82B9-0913BC3D2C9B</string>
+		<string>08B199A3-A766-40FA-A1C8-14D9F437BD30</string>
 		<key>UID</key>
-		<string>6D0EA15B-31E6-4F85-8F8E-1C93500D1175</string>
+		<string>27CD9BBF-BABC-4A5A-8E41-17FD119EC7BB</string>
 	</dict>
 </array>
 </plist>

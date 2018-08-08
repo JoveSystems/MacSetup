@@ -10,6 +10,8 @@
 - [Docker for Mac](#docker-for-mac)
 - [Scrivener](#scrivener)
 - [Homebrew](#homebrew)
+- [pyenv](#pyenv)
+- [Bash](#bash)
 - [Fonts](#fonts)
 
 #### Safari
@@ -41,13 +43,42 @@
 
 #### [Docker for Mac](https://www.docker.com/docker-mac)
 
+#### Bash
+
+Consolidate all Bash sartup scripts into .bashrc by including
+
+```bash
+if [ -f $HOME/.bashrc ]; then
+        source $HOME/.bashrc
+fi
+```
+
+in
+
+`~/.bash_profile`
+
 #### [Homebrew](https://brew.sh)
 
 Note that Homebrew will install Apple's command line tools which are needed by pyenv to compile Python
 
 - git
 - pyenv
-    - Python 3.7.10
+
+
+#### [pyenv](https://github.com/pyenv/pyenv)
+
+Need to add
+
+```bash
+eval "$(pyenv init -)" 
+```
+to 
+
+`~/bashrc`
+
+##### Python versions
+
+- Python 3.7.10
   
 
 #### Fonts

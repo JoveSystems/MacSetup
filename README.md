@@ -43,6 +43,13 @@
 
 #### [Homebrew](https://brew.sh)
 
+Note that Homebrew will install Apple's command line tools which are needed by pyenv to compile Python
+
+- git
+- pyenv
+    - Python 3.7.10
+  
+
 #### Fonts
 
 - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) [OTF version]

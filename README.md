@@ -23,6 +23,7 @@
 
 - [MS Python Extension](https://github.com/Microsoft/vscode-python)
 - [Base 16 Themes](https://marketplace.visualstudio.com/items?itemName=AndrsDC.base16-themes)
+- [Markdown all in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - Use settings in vscode/settings file
 
 #### [iTerm2](https://www.iterm2.com)
@@ -34,7 +35,7 @@
 
 - Install macros etc in keyboard-maestro subdirectory
 
-#### [Scrivener](https://www.literatureandlatte.com/scrivener.php)
+#### [Scrivener 2.9](https://www.literatureandlatte.com/scrivener.php)
 
 - [Revised Icon](https://dribbble.com/shots/978125-Scrivener-Icon-Replacement)
 

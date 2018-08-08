@@ -1,9 +1,10 @@
 VSCode Settings
 
 {
-    "editor.fontFamily": "Source Code Variable",
+    "editor.fontFamily": "Source Code Pro",
 
     "editor.fontSize": 14,
     "extensions.ignoreRecommendations": true,
-    "workbench.colorTheme": "Base16 Dark Oceanic Next"
+    "workbench.colorTheme": "Base16 Dark Oceanic Next",
+    "python.pythonPath": "/Users/carl/.pyenv/versions/3.7.0/bin/python"
 }

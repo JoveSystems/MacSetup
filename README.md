@@ -78,7 +78,7 @@ to
 
 ##### Python versions
 
-- Python 3.7.10
+- Python 3.6.5
   
 
 #### Fonts

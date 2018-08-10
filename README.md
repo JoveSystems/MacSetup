@@ -7,8 +7,9 @@
 - [VSCode](#vscode)
 - [iTerm2](#iterm2)
 - [KeyBoard Maestro](#keyboard-maestro)
-- [Docker for Mac](#docker-for-mac)
 - [Scrivener](#scrivener)
+- [f.lux](#flux)
+- [Docker for Mac](#docker-for-mac)
 - [Homebrew](#homebrew)
 - [pyenv](#pyenv)
 - [Bash](#bash)
@@ -40,6 +41,8 @@
 #### [Scrivener 2.9](https://www.literatureandlatte.com/scrivener.php)
 
 - [Revised Icon](https://dribbble.com/shots/978125-Scrivener-Icon-Replacement)
+
+#### [flux](https://justgetflux.com)
 
 #### [Docker for Mac](https://www.docker.com/docker-mac)
 

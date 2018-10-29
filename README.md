@@ -2,18 +2,22 @@
 
 #### Installed Apps / Tools
 
-- [Safari](#safari)
-- [Chrome](#chrome)
-- [VSCode](#vscode)
-- [iTerm2](#iterm2)
-- [KeyBoard Maestro](#keyboard-maestro)
-- [Scrivener](#scrivener)
-- [f.lux](#flux)
-- [Docker for Mac](#docker-for-mac)
-- [Homebrew](#homebrew)
-- [pyenv](#pyenv)
-- [Bash](#bash)
-- [Fonts](#fonts)
+- [Notes on MacOS Setup](#notes-on-macos-setup)
+        - [Installed Apps / Tools](#installed-apps--tools)
+        - [Safari](#safari)
+        - [Chrome](#chrome)
+        - [VSCode](#vscode)
+        - [iTerm2](#iterm2)
+        - [KeyBoard Maestro](#keyboard-maestro)
+        - [Scrivener 2.9](#scrivener-29)
+        - [MasterKey](#masterkey)
+        - [flux](#flux)
+        - [Docker for Mac](#docker-for-mac)
+        - [Bash](#bash)
+        - [Homebrew](#homebrew)
+        - [pyenv](#pyenv)
+            - [Python versions](#python-versions)
+        - [Fonts](#fonts)
 
 #### Safari
 
@@ -41,6 +45,10 @@
 #### [Scrivener 2.9](https://www.literatureandlatte.com/scrivener.php)
 
 - [Revised Icon](https://dribbble.com/shots/978125-Scrivener-Icon-Replacement)
+
+#### [MasterKey](http://macinmind.com/?area=app&app=masterkey&pg=info)
+
+- [Revised Icon](http://icons-for-free.com/icon/apple_command_key_keyboard_modifier_icon_1891024.html)
 
 #### [flux](https://justgetflux.com)
 

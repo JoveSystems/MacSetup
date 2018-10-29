@@ -22,6 +22,7 @@
         - [Homebrew](#homebrew)
         - [pyenv](#pyenv)
             - [Python versions](#python-versions)
+        - [Zero-to-Jupyterhub](#zero-to-jupyterhub)
         - [Fonts](#fonts)
 
 #### Safari
@@ -105,6 +106,16 @@ to
 ##### Python versions
 
 - Python 3.6.5
+
+#### Zero-to-Jupyterhub
+
+- [Guide to using JupyterHub on Minikube](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/b5393da84e2e539fe2711bd3ea8ef6b1613d210b/CONTRIBUTING.md)
+- [Minikube](https://kubernetes.io/docs/setup/minikube/)
+
+Note first need to install XCode developer tools as per:
+```bash
+xcode-select --install
+```
   
 
 #### Fonts

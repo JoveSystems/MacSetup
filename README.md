@@ -10,7 +10,12 @@
         - [iTerm2](#iterm2)
         - [KeyBoard Maestro](#keyboard-maestro)
         - [Scrivener 2.9](#scrivener-29)
+        - [Scrivener 3.0](#scrivener-30)
         - [MasterKey](#masterkey)
+        - [Kindle for Mac](#kindle-for-mac)
+        - [Sublime Merge](#sublime-merge)
+        - [VirtualBox](#virtualbox)
+        - [Firefox](#firefox)
         - [flux](#flux)
         - [Docker for Mac](#docker-for-mac)
         - [Bash](#bash)
@@ -46,9 +51,19 @@
 
 - [Revised Icon](https://dribbble.com/shots/978125-Scrivener-Icon-Replacement)
 
+#### [Scrivener 3.0](https://www.literatureandlatte.com/scrivener.php)
+
 #### [MasterKey](http://macinmind.com/?area=app&app=masterkey&pg=info)
 
 - [Revised Icon](http://icons-for-free.com/icon/apple_command_key_keyboard_modifier_icon_1891024.html)
+
+#### [Kindle for Mac](https://itunes.apple.com/gb/app/kindle/id405399194?mt=12)
+
+#### [Sublime Merge](https://www.sublimemerge.com)
+
+#### [VirtualBox](https://www.virtualbox.org)
+
+#### [Firefox](https://www.mozilla.org/en-GB/firefox/new/)
 
 #### [flux](https://justgetflux.com)
 

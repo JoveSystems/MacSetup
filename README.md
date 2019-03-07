@@ -3,27 +3,35 @@
 #### Installed Apps / Tools
 
 - [Notes on MacOS Setup](#notes-on-macos-setup)
-        - [Installed Apps / Tools](#installed-apps--tools)
-        - [Safari](#safari)
-        - [Chrome](#chrome)
-        - [VSCode](#vscode)
-        - [iTerm2](#iterm2)
-        - [KeyBoard Maestro](#keyboard-maestro)
-        - [Scrivener 2.9](#scrivener-29)
-        - [Scrivener 3.0](#scrivener-30)
-        - [MasterKey](#masterkey)
-        - [Kindle for Mac](#kindle-for-mac)
-        - [Sublime Merge](#sublime-merge)
-        - [VirtualBox](#virtualbox)
-        - [Firefox](#firefox)
-        - [flux](#flux)
-        - [Docker for Mac](#docker-for-mac)
-        - [Bash](#bash)
-        - [Homebrew](#homebrew)
-        - [pyenv](#pyenv)
-            - [Python versions](#python-versions)
-        - [Zero-to-Jupyterhub](#zero-to-jupyterhub)
-        - [Fonts](#fonts)
+    - [Installed Apps / Tools](#installed-apps--tools)
+    - [Safari](#safari)
+    - [Chrome](#chrome)
+    - [VSCode](#vscode)
+    - [iTerm2](#iterm2)
+    - [KeyBoard Maestro](#keyboard-maestro)
+    - [Scrivener 2.9](#scrivener-29)
+    - [Scrivener 3.0](#scrivener-30)
+    - [MasterKey](#masterkey)
+    - [Kindle for Mac](#kindle-for-mac)
+    - [Sublime Merge](#sublime-merge)
+    - [VirtualBox](#virtualbox)
+    - [Firefox](#firefox)
+    - [flux](#flux)
+    - [Docker for Mac](#docker-for-mac)
+    - [HazeOver](#hazeover)
+    - [kitty](#kitty)
+    - [iina](#iina)
+    - [TheUnarchiver](#theunarchiver)
+    - [Brave](#brave)
+    - [Magnet](#magnet)
+    - [Bear](#bear)
+    - [1Password](#1password)
+    - [Bash](#bash)
+    - [Homebrew](#homebrew)
+    - [pyenv](#pyenv)
+      - [Python versions](#python-versions)
+    - [Zero-to-Jupyterhub](#zero-to-jupyterhub)
+    - [Fonts](#fonts)
 
 #### Safari
 
@@ -69,6 +77,22 @@
 #### [flux](https://justgetflux.com)
 
 #### [Docker for Mac](https://www.docker.com/docker-mac)
+
+#### [HazeOver](https://hazeover.com/)
+
+#### [kitty](https://sw.kovidgoyal.net/kitty/)
+
+#### [iina](https://iina.io/)
+
+#### [TheUnarchiver](https://theunarchiver.com/)
+
+#### [Brave](https://brave.com/)
+
+#### [Magnet](http://magnet.crowdcafe.com/)
+
+#### [Bear](https://bear.app)
+
+#### [1Password](https://1password.com)
 
 #### Bash
 

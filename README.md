@@ -143,6 +143,14 @@ to
 
 - Python 3.6.5
 
+##### Remove .pyc files
+
+''' bash
+export PYTHONDONTWRITEBYTECODE=1
+'''
+
+and add this to .bashrc
+
 #### Zero-to-Jupyterhub
 
 - [Guide to using JupyterHub on Minikube](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/b5393da84e2e539fe2711bd3ea8ef6b1613d210b/CONTRIBUTING.md)

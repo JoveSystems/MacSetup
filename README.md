@@ -27,6 +27,8 @@
     - [Bear](#bear)
     - [1Password](#1password)
     - [Bash](#bash)
+    - [RStdio](#rstudio)
+    - [R](#R)
     - [Homebrew](#homebrew)
     - [pyenv](#pyenv)
       - [Python versions](#python-versions)
@@ -93,6 +95,11 @@
 #### [Bear](https://bear.app)
 
 #### [1Password](https://1password.com)
+
+#### [RStudio](https://www.rstudio.com)
+
+#### [R](https://cran.r-project.org/bin/macosx/)
+
 
 #### Bash
 

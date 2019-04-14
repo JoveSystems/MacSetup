@@ -29,6 +29,7 @@
     - [Bash](#bash)
     - [RStdio](#rstudio)
     - [R](#R)
+    - [Intel Power Gadget](#IntelPowerGadget)
     - [Homebrew](#homebrew)
     - [pyenv](#pyenv)
       - [Python versions](#python-versions)
@@ -100,6 +101,7 @@
 
 #### [R](https://cran.r-project.org/bin/macosx/)
 
+#### [IntelPowerGadget](https://software.intel.com/en-us/articles/intel-power-gadget-20)
 
 #### Bash
 
